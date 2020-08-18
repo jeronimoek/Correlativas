@@ -1,0 +1,922 @@
+[
+  {
+    "Cod Asig": "O9511",
+    "Materia": "Analisis Matematico I",
+    "Cursar: regularizada:": [
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      ""
+    ],
+    "Id": "1"
+  },
+  {
+    "Cod Asig": "O951A",
+    "Materia": "Ingenieria y Sociedad",
+    "Cursar: regularizada:": [
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      ""
+    ],
+    "Id": "2"
+  },
+  {
+    "Cod Asig": "O9513",
+    "Materia": "\u00c1lgebra y Geometr\u00eda Analitica",
+    "Cursar: regularizada:": [
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      ""
+    ],
+    "Id": "3"
+  },
+  {
+    "Cod Asig": "O951G",
+    "Materia": "Ingenieria  Civil I (Integradora)",
+    "Cursar: regularizada:": [
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      ""
+    ],
+    "Id": "4"
+  },
+  {
+    "Cod Asig": "O951B",
+    "Materia": "Sistemas de Representaci\u00f3n",
+    "Cursar: regularizada:": [
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      ""
+    ],
+    "Id": "5"
+  },
+  {
+    "Cod Asig": "O9517",
+    "Materia": "Qu\u00edmica General",
+    "Cursar: regularizada:": [
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      ""
+    ],
+    "Id": "6"
+  },
+  {
+    "Cod Asig": "O9515",
+    "Materia": "Fisica I",
+    "Cursar: regularizada:": [
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      ""
+    ],
+    "Id": "7"
+  },
+  {
+    "Cod Asig": "O951H",
+    "Materia": "Fundamentos de Informatica",
+    "Cursar: regularizada:": [
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      ""
+    ],
+    "Id": "8"
+  },
+  {
+    "Cod Asig": "O952A",
+    "Materia": "Estabilidad",
+    "Cursar: regularizada:": [
+      "1",
+      "3",
+      "7"
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "1",
+      "3",
+      "7"
+    ],
+    "Id": "9"
+  },
+  {
+    "Cod Asig": "O9525",
+    "Materia": "Analisis Matematico II",
+    "Cursar: regularizada:": [
+      "1",
+      "3"
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "1",
+      "3"
+    ],
+    "Id": "10"
+  },
+  {
+    "Cod Asig": "O9523",
+    "Materia": "Tecnologia de Los Materiales",
+    "Cursar: regularizada:": [
+      "6",
+      "7"
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "6",
+      "7"
+    ],
+    "Id": "11"
+  },
+  {
+    "Cod Asig": "O9521",
+    "Materia": "Ingenieria Civil II (Integradora)",
+    "Cursar: regularizada:": [
+      "4",
+      "7"
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "4",
+      "5",
+      "7"
+    ],
+    "Id": "12"
+  },
+  {
+    "Cod Asig": "O951R",
+    "Materia": "Ingles I",
+    "Cursar: regularizada:": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Id": "13"
+  },
+  {
+    "Cod Asig": "O9537",
+    "Materia": "Geolog\u00eda Aplicada",
+    "Cursar: regularizada:": [
+      "4",
+      "6",
+      "7"
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "4",
+      "6",
+      "7"
+    ],
+    "Id": "14"
+  },
+  {
+    "Cod Asig": "O9529",
+    "Materia": "Fisica II",
+    "Cursar: regularizada:": [
+      "1",
+      "7"
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "1",
+      "7"
+    ],
+    "Id": "15"
+  },
+  {
+    "Cod Asig": "O9527",
+    "Materia": "Probabilidad y Estadistica",
+    "Cursar: regularizada:": [
+      "1",
+      "3"
+    ],
+    "Cursar: aprobada:": [
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "1",
+      "3"
+    ],
+    "Id": "16"
+  },
+  {
+    "Cod Asig": "O9531",
+    "Materia": "Hidraulica General y Aplicada",
+    "Cursar: regularizada:": [
+      "9",
+      "10"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "9",
+      "10"
+    ],
+    "Id": "17"
+  },
+  {
+    "Cod Asig": "O953R",
+    "Materia": "Tecnolog\u00eda del Hormigon",
+    "Cursar: regularizada:": [
+      "11",
+      "16"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "3",
+      "5",
+      "6",
+      "7"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "11",
+      "16"
+    ],
+    "Id": "18"
+  },
+  {
+    "Cod Asig": "O9535",
+    "Materia": "Tecnologia de la Construccion (Integradora)",
+    "Cursar: regularizada:": [
+      "9",
+      "11",
+      "12"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "9",
+      "11",
+      "12"
+    ],
+    "Id": "19"
+  },
+  {
+    "Cod Asig": "O951S",
+    "Materia": "Ingles II",
+    "Cursar: regularizada:": [
+      "13"
+    ],
+    "Cursar: aprobada:": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Promover o Rendir: aprobada:": [
+      "13"
+    ],
+    "Id": "22"
+  },
+  {
+    "Cod Asig": "O952B",
+    "Materia": "Resistencia de Materiales",
+    "Cursar: regularizada:": [
+      "9"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "9"
+    ],
+    "Id": "23"
+  },
+  {
+    "Cod Asig": "O953T",
+    "Materia": "Calculo Avanzado",
+    "Cursar: regularizada:": [
+      "10"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "3",
+      "5"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "10"
+    ],
+    "Id": "20"
+  },
+  {
+    "Cod Asig": "O9547",
+    "Materia": "Economia",
+    "Cursar: regularizada:": [
+      "12"
+    ],
+    "Cursar: aprobada:": [
+      "2",
+      "5"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "12"
+    ],
+    "Id": "21"
+  },
+  {
+    "Cod Asig": "O9539",
+    "Materia": "Instalaciones Electricas y Acusticas",
+    "Cursar: regularizada:": [
+      "11",
+      "15"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "5",
+      "6",
+      "7"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "11",
+      "15"
+    ],
+    "Id": "24"
+  },
+  {
+    "Cod Asig": "O953A",
+    "Materia": "Geotopografia",
+    "Cursar: regularizada:": [
+      "10",
+      "15"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "10",
+      "15"
+    ],
+    "Id": "25"
+  },
+  {
+    "Cod Asig": "O953S",
+    "Materia": "Instalaciones Termomec\u00e1nicas",
+    "Cursar: regularizada:": [
+      "11",
+      "15"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "5",
+      "6",
+      "7"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "11",
+      "15"
+    ],
+    "Id": "26"
+  },
+  {
+    "Cod Asig": "O954G",
+    "Materia": "Instalaciones Sanitarias y de Gas",
+    "Cursar: regularizada:": [
+      "11",
+      "17"
+    ],
+    "Cursar: aprobada:": [
+      "6",
+      "7",
+      "9",
+      "10"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "11",
+      "17"
+    ],
+    "Id": "27"
+  },
+  {
+    "Cod Asig": "O953B",
+    "Materia": "Estructuras de Hormigon",
+    "Cursar: regularizada:": [
+      "18",
+      "19",
+      "23"
+    ],
+    "Cursar: aprobada:": [
+      "9",
+      "11",
+      "12",
+      "16"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "18",
+      "19",
+      "23"
+    ],
+    "Id": "28"
+  },
+  {
+    "Cod Asig": "O954I",
+    "Materia": "Dise\u00f1o Arquitect\u00f3nico, Planeamiento y Urbanismo (Integradora)",
+    "Cursar: regularizada:": [
+      "19"
+    ],
+    "Cursar: aprobada:": [
+      "9",
+      "11",
+      "12",
+      "13"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "19"
+    ],
+    "Id": "29"
+  },
+  {
+    "Cod Asig": "O9533",
+    "Materia": "An\u00e1lisis Estructural I",
+    "Cursar: regularizada:": [
+      "12",
+      "23"
+    ],
+    "Cursar: aprobada:": [
+      "4",
+      "7",
+      "9"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "12",
+      "23"
+    ],
+    "Id": "30"
+  },
+  {
+    "Cod Asig": "O9541",
+    "Materia": "Geotecnia",
+    "Cursar: regularizada:": [
+      "17",
+      "19",
+      "23"
+    ],
+    "Cursar: aprobada:": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "17",
+      "19",
+      "23"
+    ],
+    "Id": "31"
+  },
+  {
+    "Cod Asig": "O954H",
+    "Materia": "Hidrologia y Obras Hidraulicas",
+    "Cursar: regularizada:": [
+      "17",
+      "19",
+      "25"
+    ],
+    "Cursar: aprobada:": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "15"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "17",
+      "19",
+      "25"
+    ],
+    "Id": "32"
+  },
+  {
+    "Cod Asig": "O955O",
+    "Materia": "Ingenieria Legal",
+    "Cursar: regularizada:": [
+      "12"
+    ],
+    "Cursar: aprobada:": [
+      "2"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "12"
+    ],
+    "Id": "33"
+  },
+  {
+    "Cod Asig": "O9551",
+    "Materia": "Organizaci\u00f3n y Conduccion de Obras",
+    "Cursar: regularizada:": [
+      "21",
+      "24",
+      "26",
+      "27 28",
+      "29"
+    ],
+    "Cursar: aprobada:": [
+      "12",
+      "13",
+      "17",
+      "19",
+      "22  23"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "21",
+      "24",
+      "26",
+      "27",
+      "28   29 33"
+    ],
+    "Id": "34"
+  },
+  {
+    "Cod Asig": "O955L",
+    "Materia": "Vias de Comunicaci\u00f3n I",
+    "Cursar: regularizada:": [
+      "25"
+    ],
+    "Cursar: aprobada:": [
+      "10",
+      "15"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "25"
+    ],
+    "Id": "35"
+  },
+  {
+    "Cod Asig": "O954A",
+    "Materia": "Elasticidad y Plasticidad",
+    "Cursar: regularizada:": [
+      "10",
+      "20"
+    ],
+    "Cursar: aprobada:": [
+      "1",
+      "3",
+      "9",
+      "23"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "10",
+      "20"
+    ],
+    "Id": "37"
+  },
+  {
+    "Cod Asig": "O9555",
+    "Materia": "Prefabricacion",
+    "Cursar: regularizada:": [
+      "11",
+      "28"
+    ],
+    "Cursar: aprobada:": [
+      "19"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "11",
+      "28"
+    ],
+    "Id": "38"
+  },
+  {
+    "Cod Asig": "O9549",
+    "Materia": "Cimentaciones",
+    "Cursar: regularizada:": [
+      "28",
+      "31"
+    ],
+    "Cursar: aprobada:": [
+      "17",
+      "18",
+      "19",
+      "23"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "28",
+      "31"
+    ],
+    "Id": "39"
+  },
+  {
+    "Cod Asig": "O955Q",
+    "Materia": "Ambiental",
+    "Cursar: regularizada:": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Cursar: aprobada:": [
+      "21",
+      "29",
+      "33"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Id": "48"
+  },
+  {
+    "Cod Asig": "O955K",
+    "Materia": "Practica Supervisada",
+    "Cursar: regularizada:": [
+      "28",
+      "29",
+      "32",
+      "33"
+    ],
+    "Cursar: aprobada:": [
+      "12",
+      "16",
+      "17",
+      "19",
+      "20",
+      "23"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "12",
+      "16",
+      "17",
+      "19",
+      "20",
+      "23"
+    ],
+    "Id": "x"
+  },
+  {
+    "Cod Asig": "O954B",
+    "Materia": "Analisis Estructural II",
+    "Cursar: regularizada:": [
+      "28",
+      "30"
+    ],
+    "Cursar: aprobada:": [
+      "18",
+      "19",
+      "20",
+      "23"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "28",
+      "30"
+    ],
+    "Id": "36"
+  },
+  {
+    "Cod Asig": "O955M",
+    "Materia": "Vias de Comunicaci\u00f3n II",
+    "Cursar: regularizada:": [
+      "31",
+      "35"
+    ],
+    "Cursar: aprobada:": [
+      "17",
+      "19",
+      "23",
+      "25"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "31",
+      "35"
+    ],
+    "Id": "40"
+  },
+  {
+    "Cod Asig": "O955C",
+    "Materia": "An\u00e1lisis Estructural III",
+    "Cursar: regularizada:": [
+      "37"
+    ],
+    "Cursar: aprobada:": [
+      "30"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "37"
+    ],
+    "Id": "42"
+  },
+  {
+    "Cod Asig": "O955E",
+    "Materia": "Dise\u00f1o Arquitectonico y de Planeamiento II",
+    "Cursar: regularizada:": [
+      "29"
+    ],
+    "Cursar: aprobada:": [
+      "19"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "29"
+    ],
+    "Id": "43"
+  },
+  {
+    "Cod Asig": "O955N",
+    "Materia": "Proyecto Final (Integradora)",
+    "Cursar: regularizada:": [
+      "28",
+      "29",
+      "32",
+      "33"
+    ],
+    "Cursar: aprobada:": [
+      "12",
+      "16",
+      "17",
+      "19",
+      "20 23"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "TODAS"
+    ],
+    "Id": "41"
+  },
+  {
+    "Cod Asig": "O9553",
+    "Materia": "Construcciones Metalicas y de Madera",
+    "Cursar: regularizada:": [
+      "30"
+    ],
+    "Cursar: aprobada:": [
+      "12",
+      "23"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "30"
+    ],
+    "Id": "44"
+  },
+  {
+    "Cod Asig": "O9557",
+    "Materia": "Ingenieria Sanitaria",
+    "Cursar: regularizada:": [
+      "32"
+    ],
+    "Cursar: aprobada:": [
+      "17",
+      "19",
+      "25"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "32"
+    ],
+    "Id": "45"
+  },
+  {
+    "Cod Asig": "O955D",
+    "Materia": "Puentes",
+    "Cursar: regularizada:": [
+      "36",
+      "39"
+    ],
+    "Cursar: aprobada:": [
+      "19",
+      "28"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "36",
+      "39"
+    ],
+    "Id": "46"
+  },
+  {
+    "Cod Asig": "O955J",
+    "Materia": "Obras Fluviales y Maritimas",
+    "Cursar: regularizada:": [
+      "36",
+      "39"
+    ],
+    "Cursar: aprobada:": [
+      "17"
+    ],
+    "Promover o Rendir: aprobada:": [
+      "32",
+      "36",
+      "39"
+    ],
+    "Id": "47"
+  }
+]
